@@ -9,7 +9,7 @@ while true; do
     # Check if the file ends with ".avif"
     if [[ "$file" == *.avif ]]; then
         # Making timestamp for the file so there are no issues with filenames
-        timestamp=$(date +%s) # Unix time
+        timestamp=$(date +%s)
         unique_id="${timestamp}${RANDOM}"
         echo "Converting $file to PNG"
         output_file="${file%.avif} [${timestamp}].png"
