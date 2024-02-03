@@ -8,8 +8,9 @@ Some websites use avif images which are very unsupported in most applications. T
 
 # record_gpu
 
-A way for me to easily use gpu-screen-recorder program on Linux. By binding this script to a hotkey I can turn the recording on and off and the scripts makes me files with unique filenames based on timestamp.
+A way for me to easily use gpu-screen-recorder program on Linux. By binding this script to a hotkey I can turn the recording on and off and the script makes me files with unique filenames based on timestamp.
 
 
-Link to the gpu-screen-recorder website
+Gpu-screen-recorder is the fastest recording tool on Linux with minimal impact on system performance.
+Link to the gpu-screen-recorder website.
 https://git.dec05eba.com/gpu-screen-recorder/about/
