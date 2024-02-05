@@ -4,7 +4,7 @@ These are my Linux bash scripts I run to make my life easier. You are free to co
 
 # monitor_file
 
-Some websites use avif images which are very unsupported in most applications. This script monitors a given folder (and its subfolders) for avif image downloads and then converts then converts them to png files.
+Some websites use avif and webp images which are very unsupported in most applications. This script monitors a given folder (and its subfolders) for avif/webp image downloads and then converts then converts them to png files.
 
 Needs ffmpeg and inotify-tools to work.
 
